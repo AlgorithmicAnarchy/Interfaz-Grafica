@@ -1,0 +1,6 @@
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaDato\bin\Debug\CapaDato.dll
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaDato\bin\Debug\CapaDato.pdb
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaDato\obj\Debug\CapaDato.csproj.AssemblyReference.cache
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaDato\obj\Debug\CapaDato.dll
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaDato\obj\Debug\CapaDato.pdb

@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\capapresentacion\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_inventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\capapresentacion\\frm_gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_gestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_gestion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E7D5D7A3-8000-4DE8-93C3-9D6A399A27FD}|CapaDatos\\CapaDatos.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capadatos\\cd_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E7D5D7A3-8000-4DE8-93C3-9D6A399A27FD}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\cd_prod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_gestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\capapresentacion\\frm_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\inventando\\gestionproductosf\\capapresentacion\\frm_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DAA3921-36AC-4DBA-9EEC-A00F8DD4249B}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\frm_add.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_Proveedor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Proveedor.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Proveedor.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Proveedor.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Proveedor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:16:05.862Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_Inventario.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Inventario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Inventario.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Inventario.cs",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Inventario.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAADgv6AAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:15:48.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Frm_Inventario.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Inventario.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Inventario.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Inventario.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Inventario.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:15:47.313Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_Categoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Categoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Categoria.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Categoria.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Categoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:15:39.645Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Frm_Gestion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Gestion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Gestion.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Gestion.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Gestion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:18:09.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Main.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Main.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Main.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Main.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Main.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:33:57.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Home.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Home.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Home.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T12:58:28.5Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Frm_Gestion.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Gestion.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Gestion.Designer.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Gestion.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Gestion.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:51:07.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Frm_Add.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Add.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Add.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Add.cs",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Add.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:18:17.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Frm_Gestion.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Gestion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Gestion.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Gestion.cs",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Gestion.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:19:21.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CD_Prod.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaDatos\\CD_Prod.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CD_Prod.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaDatos\\CD_Prod.cs",
+              "RelativeToolTip": "CapaDatos\\CD_Prod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T13:37:04.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Frm_Add.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Add.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Add.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Add.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Add.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T14:18:03.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Frm_Home.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Home.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Frm_Home.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Inventando\\GestionProductosF\\CapaPresentacion\\Frm_Home.cs",
+              "RelativeToolTip": "CapaPresentacion\\Frm_Home.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAhwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:43:33.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

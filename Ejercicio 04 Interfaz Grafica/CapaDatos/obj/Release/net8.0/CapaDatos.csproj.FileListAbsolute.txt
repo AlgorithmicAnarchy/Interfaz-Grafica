@@ -1,0 +1,12 @@
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\bin\Release\net8.0\CapaDatos.deps.json
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\bin\Release\net8.0\CapaDatos.dll
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\bin\Release\net8.0\CapaDatos.pdb
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.AssemblyInfoInputs.cache
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.AssemblyInfo.cs
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.dll
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\refint\CapaDatos.dll
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\CapaDatos.pdb
+C:\Users\Crarox\Desktop\Inventando\GestionProductosF\CapaDatos\obj\Release\net8.0\ref\CapaDatos.dll

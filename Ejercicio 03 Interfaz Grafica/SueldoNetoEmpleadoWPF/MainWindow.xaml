@@ -1,0 +1,169 @@
+﻿<Window x:Class="SueldoNetoEmpleadoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SueldoNetoEmpleadoWPF"
+        mc:Ignorable="d"
+        Title="LoginView" Height="550" Width="800"
+        WindowStyle="none"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen"
+        Background="Transparent"
+        AllowsTransparency="True"
+        MouseDown="Window_MouseDown">
+
+
+    <Border CornerRadius="12">
+
+        <Border CornerRadius="10"
+            BorderThickness="1"
+            Opacity="0.95">
+
+            <Border.BorderBrush>
+                <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                    <GradientStop Color="#B0C4D6" Offset="0"/>
+                    <GradientStop Color="#4DD0E1" Offset="0.75"/>
+                    <GradientStop Color="#F0F4F8" Offset="1"/>
+
+                </LinearGradientBrush>
+            </Border.BorderBrush>
+
+            <Border.Background>
+                <LinearGradientBrush StartPoint="0,1" EndPoint="1,0">
+                    <GradientStop Color="#003B5C" Offset="0"/>
+                    <GradientStop Color="#007B99" Offset="0.75"/>
+                </LinearGradientBrush>
+            </Border.Background>
+
+
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="30px"/>
+
+                </Grid.ColumnDefinitions>
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30px"/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="Bienvenido de nuevo a ToDaKi's Center"
+                           Foreground="white"
+                           Grid.Column="1"
+                           Grid.Row="1"
+                           FontSize="24"
+                           TextWrapping="Wrap"
+                           TextAlignment="Center"
+                           FontWeight="Medium"/>
+
+                <StackPanel Grid.Column="1"
+                            Grid.Row="2">
+                    
+                    <TextBlock Text="Ingresa cuanto ganas por hora"
+                                Foreground="LightGray"
+                                FontSize="14px"
+                                Margin="0,0,0,10"/>
+
+                    <TextBox x:Name="txtGananciasH"
+                            FontSize="13"
+                            FontWeight="Medium"
+                            FontFamily="Montserrat"
+                            Foreground="white"
+                            Background="Transparent"
+                            CaretBrush="LightGray"
+                            BorderBrush="DarkGray"
+                            BorderThickness="0,0,0,1"
+                            Height="28"
+                            Padding="30,0,0,0"/>
+
+
+
+                    <TextBlock Text="Ingresa cuantas horas trabajaste"
+                                Foreground="LightGray"
+                                FontSize="14px"
+                                Margin="0,40,0,10"/>
+
+                    <TextBox x:Name="txtPagoH"
+                            FontSize="13"
+                            FontWeight="Medium"
+                            FontFamily="Montserrat"
+                            Foreground="white"
+                            Background="Transparent"
+                            CaretBrush="LightGray"
+                            BorderBrush="DarkGray"
+                            BorderThickness="0,0,0,1"
+                            Height="28"
+                            Padding="30,0,0,0"/>
+
+                </StackPanel>
+
+
+                <TextBlock Text="El sueldo neto del empleado"
+               Foreground="DarkGray"
+                           Margin="0,50,0,0"
+                          TextAlignment="Center"
+               FontSize="14"
+           Grid.Column="1"
+           Grid.Row="3"/>
+
+
+                <TextBlock Text=""
+                           x:Name="netoyatusabe"
+                               Foreground="White"
+                               FontSize="24"
+                           Grid.Column="1"
+                           Grid.Row="3"
+                           TextAlignment="Center"
+                           VerticalAlignment="center"/>
+
+
+                <Button 
+                            BorderThickness="0"
+                            Content="ENVIAR"
+                            Foreground="White"
+                            FontSize="12"
+                            FontFamily="Montserrat"
+                            Cursor="Hand"
+                            Grid.Column="2"
+                    Grid.Row="2"
+                                Click="Button_Click">
+
+                    <Button.Style>
+                        <Style TargetType="Button">
+                            <Setter Property="Background" Value="#28AEED"/>
+                            <Style.Triggers>
+                                <Trigger Property="IsMouseOver" Value="True">
+                                    <Setter Property="Background" Value="#462AD8"/>
+                                </Trigger>
+
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+
+                    <Button.Template>
+                        <ControlTemplate TargetType="Button">
+                            <Border Width="92" Height="30"
+                                    CornerRadius="12"
+                                    Background="{TemplateBinding Background}">
+                                <ContentPresenter VerticalAlignment="Center"
+                                    HorizontalAlignment="Center"/>
+
+                            </Border>
+
+                        </ControlTemplate>
+                    </Button.Template>
+
+                </Button>
+
+
+
+            </Grid>
+        </Border>
+    </Border>
+</Window>

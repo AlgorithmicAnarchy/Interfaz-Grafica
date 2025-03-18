@@ -1,0 +1,9 @@
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\bin\Debug\CapaDato.dll
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\bin\Debug\CapaDato.pdb
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Crarox\Desktop\Trabajo\VentasG\CapaNegocios\obj\Debug\CapaNegocios.pdb

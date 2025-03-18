@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\capapresentacion\\views\\frm_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\views\\frm_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\capapresentacion\\views\\frm_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\views\\frm_facturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\capapresentacion\\views\\frm_reportefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\views\\frm_reportefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\trabajo\\ventasg\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\trabajo\\ventasg\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\crarox\\desktop\\trabajo\\ventasg\\capapresentacion\\views\\frm_reportefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\views\\frm_reportefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\capapresentacion\\reports\\reportefactura.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{47334F10-A6F5-40C5-A381-1F1F0977B515}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reports\\reportefactura.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{663A98E7-FEA9-42E5-A43E-68DC4259F45E}|CapaNegocios\\CapaNegocios.csproj|C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\capanegocios\\cn_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{663A98E7-FEA9-42E5-A43E-68DC4259F45E}|CapaNegocios\\CapaNegocios.csproj|solutionrelative:capanegocios\\cn_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36074380-F38E-43B7-802D-45684A6C7754}|CapaDato\\CapaDato.csproj|C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\capadato\\cd_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36074380-F38E-43B7-802D-45684A6C7754}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\cd_factura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 185,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CN_Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaNegocios\\CN_Factura.cs",
+              "RelativeDocumentMoniker": "CapaNegocios\\CN_Factura.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaNegocios\\CN_Factura.cs",
+              "RelativeToolTip": "CapaNegocios\\CN_Factura.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAuwDsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:12:38.776Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CD_Factura.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaDato\\CD_Factura.cs",
+              "RelativeDocumentMoniker": "CapaDato\\CD_Factura.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaDato\\CD_Factura.cs",
+              "RelativeToolTip": "CapaDato\\CD_Factura.cs",
+              "ViewState": "AgIAANQAAAAAAAAAAAAYwPUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:12:46.71Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Form1.cs",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswHsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:23:54.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Form1.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T02:20:32.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_ReporteFactura.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_ReporteFactura.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Views\\Frm_ReporteFactura.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_ReporteFactura.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Views\\Frm_ReporteFactura.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:53:31.016Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_Facturacion.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_Facturacion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Views\\Frm_Facturacion.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_Facturacion.cs [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Views\\Frm_Facturacion.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:05:23.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Frm_ReporteFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_ReporteFactura.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Views\\Frm_ReporteFactura.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_ReporteFactura.cs",
+              "RelativeToolTip": "CapaPresentacion\\Views\\Frm_ReporteFactura.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T23:53:32.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_Facturacion.cs",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_Facturacion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Views\\Frm_Facturacion.cs",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Views\\Frm_Facturacion.cs",
+              "RelativeToolTip": "CapaPresentacion\\Views\\Frm_Facturacion.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAswAwBAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T20:06:10.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReporteFactura.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Reports\\ReporteFactura.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reports\\ReporteFactura.rdlc",
+              "ToolTip": "C:\\Users\\Crarox\\Desktop\\Trabajo\\VentasG\\CapaPresentacion\\Reports\\ReporteFactura.rdlc [Design]",
+              "RelativeToolTip": "CapaPresentacion\\Reports\\ReporteFactura.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2025-03-16T22:54:04.109Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

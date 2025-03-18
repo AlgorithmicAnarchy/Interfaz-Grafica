@@ -1,0 +1,27 @@
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Micha\source\repos\Practicas SQL\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.CapaPresentacion.resources
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.AssemblyReference.cache
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.CapaPresentacion.resources
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.Properties.Resources.resources
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.GenerateResource.cache
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Crarox\Downloads\PracticaSQL3\CapaPresentacion\obj\Debug\CapaPres.61CA7C38.Up2Date
